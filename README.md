@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rusty-bytes7
 - 👀 I’m interested in learning more about computer science and coding!
-- 🌱 I’m currently learning Python, R, Git, and Data Visualization
+- 🌱 I’m currently learning Python and doing projects on my Raspberry Pi.
 - 😄 Pronouns: she/her/they
 - ⚡ Fun fact: This account is named in honor of my cat!
 
