@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python and doing projects on my Raspberry Pi.
 - 😄 Pronouns: she/her/they
 - ⚡ Fun fact: This account is named in honor of my cat!
+- 🖥️ My personal website: [www.rusty-bytes.neocities.org](https://rusty-bytes.neocities.org/)
 
 [![An image of @rustybytes7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rustybytes7)](https://holopin.io/@rustybytes7)
 <!---
