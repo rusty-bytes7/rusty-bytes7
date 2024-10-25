@@ -8,7 +8,7 @@
 [![An image of @rustybytes7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rustybytes7)](https://holopin.io/@rustybytes7)
 
 ![Hacktoberfest Badge](https://img.shields.io/badge/Hacktoberfest-2024-blueviolet?style=flat-square&logo=hacktoberfest)
-![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python)
+![Python](https://img.shields.io/badge/Python-green?style=flat-square&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-1.3.3-blue?style=flat-square&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-1.21.2-blue?style=flat-square&logo=numpy)
 ![HTML](https://img.shields.io/badge/HTML-5-orange?style=flat-square&logo=html5)
