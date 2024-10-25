@@ -27,7 +27,7 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rusty-bytes7&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rusty-bytes7&show_icons=true&theme=outrun)
 
 <!---
 rusty-bytes7/rusty-bytes7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
