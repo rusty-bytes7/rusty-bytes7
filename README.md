@@ -20,6 +20,7 @@
 ![Cat Enthusiast](https://img.shields.io/badge/Cat-Enthusiast-ff69b4?style=flat-square&logo=cat)
 ![Coffee Lover](https://img.shields.io/badge/Coffee-Lover-brown?style=flat-square&logo=coffee)
 ![LGBTQ+ Pride ](https://img.shields.io/badge/LGBTQ+-Pride-ff69b4?style=flat-square&logo=lgbtq)
+![Code Wars](https://www.codewars.com/users/rusty63/badges/micro)
 
 ### 👀 Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=rusty-bytes7&color=9932CC)
