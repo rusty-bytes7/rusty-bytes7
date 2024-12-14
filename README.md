@@ -25,11 +25,9 @@
 ### 👀 Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=rusty-bytes7&color=9932CC)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rusty-bytes7&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&hide_rank=true)
 
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rusty-bytes7&show_icons=true&theme=outrun)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rusty-bytes7&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 <!---
 rusty-bytes7/rusty-bytes7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
