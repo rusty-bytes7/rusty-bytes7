@@ -1,6 +1,6 @@
 - 👋🏻 Hi, I’m @rusty-bytes7
 - 👀 I’m interested in learning more about computer science and coding!
-- 🌱 I’m currently learning Python, doing projects on my Raspberry Pi, and developing my own website.
+- 🌱 I’m currently learning Python and C#, doing projects on my Raspberry Pi, and developing my own website.
 - 😄 Pronouns: she/her/they
 - ⚡ Fun fact: This account is named in honor of my cat!
 - 🖥️ My personal website: [www.rusty-bytes.neocities.org](https://rusty-bytes.neocities.org/)
