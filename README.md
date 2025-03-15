@@ -11,6 +11,8 @@
 ![Python](https://img.shields.io/badge/Python-orange?style=flat-square&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-1.3.3-yellow?style=flat-square&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-1.21.2-green?style=flat-square&logo=numpy)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-5-blue?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-3-magenta?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-purple?style=flat-square&logo=javascript)
@@ -21,6 +23,10 @@
 ![Coffee Lover](https://img.shields.io/badge/Coffee-Lover-brown?style=flat-square&logo=coffee)
 ![LGBTQ+ Pride ](https://img.shields.io/badge/LGBTQ+-Pride-purple?style=flat-square&logo=lgbtq)
 ![Code Wars](https://www.codewars.com/users/rusty63/badges/micro)
+![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
+
 
 ### 👀 Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=rusty-bytes7&color=9932CC)
