@@ -27,7 +27,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Coffee Lover](https://img.shields.io/badge/Coffee-Lover-brown?style=flat-square&logo=coffee)
 ![Code Wars](https://www.codewars.com/users/rusty63/badges/micro)
-
+[![LeetCode user wolf63](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23C44DFF&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fwolf63&logo=leetcode&logoColor=yellow)](https://leetcode.com/wolf63/)
 
 ### 👀 Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=rusty-bytes7&color=9932CC)
