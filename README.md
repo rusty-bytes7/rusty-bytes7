@@ -15,11 +15,11 @@
 ## 🖥️ Tech Stack
 
 ### 📝 Languages
-![Python](https://img.shields.io/badge/Python-orange?style=flat-square&logo=python)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-5-blue?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-3-magenta?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-purple?style=flat-square&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### 🖼️ Frontend
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -32,35 +32,42 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ### 📊 Data & Analytics
-![Pandas](https://img.shields.io/badge/Pandas-1.3.3-yellow?style=flat-square&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-1.21.2-green?style=flat-square&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### 🛠️ Tools
-![VS Code](https://img.shields.io/badge/VS%20Code-Editor-red?style=flat-square&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/Git-VersionControl-orange?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-Repo-yellow?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-
+![Github Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github%20Pages&logoColor=white)
+![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![BS](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Apple](https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white)
+![Mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ---
 
 ## 🌱 Learning & Achievements
 
-![Hacktoberfest Badge](https://img.shields.io/badge/Hacktoberfest-2024-red?style=flat-square&logo=hacktoberfest)
+![hacktoberfest 2024](https://img.shields.io/badge/hacktoberfest%202024-F59827?style=for-the-badge&logo=hacktoberfest-2024&logoColor=white)
 ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-![Code Wars](https://www.codewars.com/users/rusty63/badges/micro)
-[![LeetCode user wolf63](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23C44DFF&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fuser%2Fwolf63)](https://leetcode.com/wolf63/)
+![Code Wars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)
+![LeetCode user wolf63](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
 
 ---
 
 ## 🎉 Fun & Personal
 
-![Cat Enthusiast](https://img.shields.io/badge/Cat-Enthusiast-green?style=flat-square&logo=cat)
-![Coffee Lover](https://img.shields.io/badge/Coffee-Lover-brown?style=flat-square&logo=coffee)
-![LGBTQ+ Pride ](https://img.shields.io/badge/LGBTQ+-Pride-purple?style=flat-square&logo=lgbtq)
-![Nintendo Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
-
+![cat enthusiast](https://img.shields.io/badge/cat%20enthusiast-E541F2?style=for-the-badge&logo=cat-enthusiast&logoColor=white)
+![coffee lover](https://img.shields.io/badge/coffee%20lover-8F651F?style=for-the-badge&logo=coffee-lover&logoColor=white)
+![lgbtq+ pride](https://img.shields.io/badge/lgbtq+%20pride-B97AFF?style=for-the-badge&logo=lgbtq+-pride&logoColor=white)
+![Nintendo Switch](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
+![neocities](https://img.shields.io/badge/neocities-27f5e0?style=for-the-badge&logo=neocities&logoColor=white) 
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 ---
 
 ## 📈 Stats
