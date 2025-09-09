@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=60&duration=4000&pause=1000&color=B026FF&vCenter=true&width=1000&height=70&lines=Hi%2C+I'm+rusty-bytes7+%F0%9F%91%8B%F0%9F%8F%[...]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=50&duration=4000&pause=1000&color=B026FF&width=1500&height=150&lines=Hi%2C+I'm+rusty-bytes7%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
 - 👀 I’m interested in learning more about computer science and coding!
 - 🌱 I’m currently learning Python and C#, doing projects on my Raspberry Pi, and developing my own website.
