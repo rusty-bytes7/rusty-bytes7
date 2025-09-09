@@ -108,6 +108,9 @@
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 ![lgbtq+ pride](https://img.shields.io/badge/lgbtq+%20pride-B97AFF?style=for-the-badge&logo=lgbtq+-pride&logoColor=white)
 ![neocities](https://img.shields.io/badge/neocities-27f5e0?style=for-the-badge&logo=neocities&logoColor=white) 
+![Pokémon Trainer](https://img.shields.io/badge/Pokémon_Trainer-FFCB05?style=for-the-badge&logo=pokemon&logoColor=black)
+![Plant Parent](https://img.shields.io/badge/Plant_Parent-228B22?style=for-the-badge&logo=leaflet&logoColor=white)
+![dark mode enthusiast](https://img.shields.io/badge/dark%20mode%20enthusiast-000000?style=for-the-badge&logo=dark-mode-enthusiast&logoColor=white)
 
 </details>
 
