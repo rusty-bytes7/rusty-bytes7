@@ -1,9 +1,10 @@
-## 👋🏻 Hi, I’m @rusty-bytes7
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B026FF&width=435&lines=Hi%2C+I'm+rusty-bytes7+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
 - 👀 I’m interested in learning more about computer science and coding!
 - 🌱 I’m currently learning Python and C#, doing projects on my Raspberry Pi, and developing my own website.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: This account is named in honor of my cat!
+- 💼 My portfolio website: [https://rusty-bytes7.github.io/](https://rusty-bytes7.github.io/)
 - 🖥️ My personal website: [www.rusty-bytes.neocities.org](https://rusty-bytes.neocities.org/)
 
 ---
@@ -73,7 +74,7 @@
 ## 📈 Stats
 
 ### 👀 Visitor Count
-![Visitor Count](https://komarev.com/ghpvc/?username=rusty-bytes7&color=9932CC)
+![Visitor Count](https://komarev.com/ghpvc/?username=rusty-bytes7&color=9932CC&style=for-the-badge)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rusty-bytes7&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&hide_rank=true)
 
