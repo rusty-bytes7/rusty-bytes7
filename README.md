@@ -40,7 +40,6 @@
 ![Git](https://img.shields.io/badge/Git-VersionControl-orange?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-Repo-yellow?style=flat-square&logo=github)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 
 ---
 
@@ -60,6 +59,7 @@
 ![Cat Enthusiast](https://img.shields.io/badge/Cat-Enthusiast-green?style=flat-square&logo=cat)
 ![Coffee Lover](https://img.shields.io/badge/Coffee-Lover-brown?style=flat-square&logo=coffee)
 ![LGBTQ+ Pride ](https://img.shields.io/badge/LGBTQ+-Pride-purple?style=flat-square&logo=lgbtq)
+![Nintendo Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 
 ---
 
