@@ -105,13 +105,13 @@
 ![cat enthusiast](https://img.shields.io/badge/cat%20enthusiast-EC41FF?style=for-the-badge&logo=cat-enthusiast&logoColor=FFD43B)
 ![coffee lover](https://img.shields.io/badge/coffee%20lover-FF007F?style=for-the-badge&logo=coffee-lover&logoColor=FFD43B)
 ![Nintendo Switch](https://img.shields.io/badge/Nintendo_Switch-FFCB05?style=for-the-badge&logo=nintendo-switch&logoColor=232946)
-![Spotify](https://img.shields.io/badge/Spotify-01fe01?&style=for-the-badge&logo=spotify&logoColor=232946)
+![Plant Parent](https://img.shields.io/badge/Plant_Parent-EC41FF?style=for-the-badge&logo=leaflet&logoColor=FFD43B)
 ![lgbtq+ pride](https://img.shields.io/badge/lgbtq+%20pride-8B5CF6?style=for-the-badge&logo=lgbtq+-pride&logoColor=FFD43B)
 <a href="https://neocities.org/">
     <img src="https://pixelsafari.neocities.org/buttons/1neo15.gif" height="28" alt="Dancing Cat" />
   </a>
 ![Pokémon Trainer](https://img.shields.io/badge/Pokémon_Trainer-FF007F?style=for-the-badge&logo=pokemon&logoColor=FFD43B)
-![Plant Parent](https://img.shields.io/badge/Plant_Parent-EC41FF?style=for-the-badge&logo=leaflet&logoColor=FFD43B)
+![Spotify](https://img.shields.io/badge/Spotify-01fe01?&style=for-the-badge&logo=spotify&logoColor=232946)
 ![dark mode enthusiast](https://img.shields.io/badge/dark%20mode%20enthusiast-232946?style=for-the-badge&logo=dark-mode-enthusiast&logoColor=EC41FF)
 
 </details>
