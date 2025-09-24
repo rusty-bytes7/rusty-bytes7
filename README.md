@@ -5,7 +5,6 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: This account is named in honor of my cat!
 - 💼 My portfolio website: [https://rusty-bytes7.github.io/](https://rusty-bytes7.github.io/)
-- 🖥️ My personal website: [www.rusty-bytes.neocities.org](https://rusty-bytes.neocities.org/)
 
 
 ---
