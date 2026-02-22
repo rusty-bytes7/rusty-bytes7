@@ -40,6 +40,8 @@
 ![Express.js](https://img.shields.io/badge/express.js-9D00FF?style=for-the-badge&logo=express&logoColor=FFD43B)
 ![MongoDB](https://img.shields.io/badge/MongoDB-5EF1F2?style=for-the-badge&logo=mongodb&logoColor=232946)
 ![.Net](https://img.shields.io/badge/.NET-EC41FF?style=for-the-badge&logo=.net&logoColor=FFD43B)
+![MongoDB](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 </details>
 
